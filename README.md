@@ -23,6 +23,8 @@ Please note many of the files you will find are probably duplicates/siglhtly dif
 
 There are also incomplete files, or files with Low Quality.
 
+None of the data in the files was updated.
+
 ## Media List
 ### UTAU voices and pictures
 - [ ] Meast pictures
@@ -67,8 +69,16 @@ There are also incomplete files, or files with Low Quality.
 ## Media Status
 Guide:
 * Found Media: OK
-* Unkwnown status: SEARCH
+* Unkwnown status: ?
 * Confirmed Lost Media: NEG
 
 List:
 * wip
+* Heccan --OriginalEX-- : OK
+* Bakira_Origin : OK
+* Glucagon (グルカゴン) : OK
+* Heccan --OriginalEX-- (OpenUTAU Port) : ?
+* Bakira_Origin (OpenUTAU port) : ?
+* Glucagon (グルカゴン) (OpenUTAU Port) : ?
+* Slice_VCV_Sweet : ?
+* Slice_CV : ?
